@@ -181,6 +181,6 @@ To gain practical experience in camera Image Signal Processing by implementing a
 
 ## Author
 
-**YOUR NAME**
+**SINISTER0709**
 
-GitHub: SINISTER0709 https://github.com/SINISTER0709
+GitHub:  https://github.com/SINISTER0709
